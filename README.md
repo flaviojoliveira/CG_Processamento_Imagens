@@ -20,4 +20,6 @@ source activate
 Fonte: https://docs.python.org/pt-br/3/tutorial/venv.html
 
 
-*em edição
+* Laboratório 09 de março
+
+
