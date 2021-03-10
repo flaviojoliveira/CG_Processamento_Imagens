@@ -20,6 +20,12 @@ source activate
 Fonte: https://docs.python.org/pt-br/3/tutorial/venv.html
 
 
-* Laboratório 09 de março
+* Laboratório - Construção de Imagens
+
+```
+comandos
+```
+
+
 
 
