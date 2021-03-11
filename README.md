@@ -38,3 +38,10 @@ https://pillow.readthedocs.io/en/stable/reference/Image.html
 ```
 python abertura.py
 ```
+
+### Laboratório getpixel
+
+1. Execute o arquivo abertura2.py
+```
+python abertura2.py
+```
