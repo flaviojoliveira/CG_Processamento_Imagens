@@ -1,31 +1,40 @@
-# CG_Processamento_Imagens
+## CG_Processamento_Imagens
 
  Estudos em Computação Gráfica e Processamento de Imagens
 
 ### Conteúdos dos laboratórios
 
-* Laboratório imagem
+#### Laboratório imagem
 
-
-> Comandos importantes utilizados no laboratório
-> Atenção ao ambiente de realização do laboratório
+1. clone repositório
+```
+git clone 
+cd lab02
 
 ```
-python3 -m venv imagem
+2. Após crie seu ambiente virtual (utilize a versão mais recente)
 ```
-Ativação do Ambiente (environment)
+python3 -m venv lab02
 ```
-source activate
-```
-Fonte: https://docs.python.org/pt-br/3/tutorial/venv.html
-
-
-* Laboratório - Construção de Imagens
+3. Ativar Ambiente virtual
 
 ```
-comandos
+source /lab02/bin/activate
 ```
+4. Instalar a biblioteca Pillow
+```
+pip install pillow
+```
+5. Consulte a library Pillow módulo image e verifique as opções em:
+- get.pixel "Image.getpixel(x,y)"
+Lembram da matriz que falamos...cliquem em "coordenate system" e verifique onde temos os (0,0) de nossos pixels.
+- put.pixel "Image.putpixel(x,y,value)"
 
+https://pillow.readthedocs.io/en/stable/reference/Image.html
 
+6. verifique o código abertura.py
 
-
+7. Execute o arquivo abertura.py
+```
+python abertura.py
+```
