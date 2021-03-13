@@ -45,3 +45,5 @@ python abertura.py
 ```
 python abertura2.py
 ```
+
+#### Após utilização e estudos dos laboratórios envie feedback em nosso grupo.
