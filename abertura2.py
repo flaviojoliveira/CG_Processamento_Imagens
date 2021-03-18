@@ -6,7 +6,7 @@ import os
 image = Image.open(r"data/input/bandeira.jpeg")
 
 px = image.load() 
-cordinate = x, y = 250, 250
+cordinate = x, y = 512, 375
 
 # using getpixel method 
 #print(image.getpixel(90,60))
