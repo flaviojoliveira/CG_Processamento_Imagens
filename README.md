@@ -4,17 +4,17 @@
 
 ### Conteúdos dos laboratórios
 
-#### Laboratório imagem
+#### Laboratório imagem [Projeto 01]
 
 1. clone repositório
 ```
 git clone https://github.com/flaviojoliveira/CG_Processamento_Imagens
-cd lab02
+cd projeto2
 
 ```
 2. Após crie seu ambiente virtual (utilize a versão mais recente)
 ```
-python3 -m venv lab02
+python3 -m venv projeto2
 ```
 3. Ativar Ambiente virtual
 
@@ -39,11 +39,30 @@ https://pillow.readthedocs.io/en/stable/reference/Image.html
 python abertura.py
 ```
 
-### Laboratório getpixel
+### Laboratório getpixel [Projeto 2]
 
 1. Execute o arquivo abertura2.py
 ```
 python abertura2.py
+```
+
+### Laboratório - Processamento de Imagens - parte 1 [Projeto 03]
+
+Descrição de nosso arquivo:
+
+- Pillow (modo, size, cor) 
+
+```
+*alunos inserirem os comandos aqui
+```
+
+
+### Laboratório - Processamento de Imagens e Geometria - parte 1 [Projeto 04]
+
+- Função Triângulo
+- Proporcionalidade
+```
+*alunos inserirem os comandos aqui
 ```
 
 #### Após utilização e estudos dos laboratórios envie feedback em nosso grupo.
