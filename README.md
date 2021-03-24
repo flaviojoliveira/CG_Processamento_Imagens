@@ -4,7 +4,7 @@
 
 ### Conteúdos dos laboratórios
 
-#### Laboratório imagem [Projeto 01]
+#### Laboratório imagem *[Projeto 01]*
 
 1. clone repositório
 ```
@@ -39,14 +39,14 @@ https://pillow.readthedocs.io/en/stable/reference/Image.html
 python abertura.py
 ```
 
-### Laboratório getpixel [Projeto 2]
+### Laboratório getpixel *[Projeto 2]*
 
 1. Execute o arquivo abertura2.py
 ```
 python abertura2.py
 ```
 
-### Laboratório - Processamento de Imagens - parte 1 [Projeto 03]
+### Laboratório - Processamento de Imagens - parte 1 *[Projeto 03]*
 
 Descrição de nosso arquivo:
 
@@ -57,7 +57,7 @@ Descrição de nosso arquivo:
 ```
 
 
-### Laboratório - Processamento de Imagens e Geometria - parte 1 [Projeto 04]
+### Laboratório - Processamento de Imagens e Geometria - parte 1 *[Projeto 04]*
 
 - Função Triângulo
 - Proporcionalidade
@@ -65,7 +65,7 @@ Descrição de nosso arquivo:
 *alunos inserirem os comandos aqui
 ```
 
-### Laboratório - Processamento de Imagens e Geometria - parte 2 [Projeto 05]
+### Laboratório - Polilinhas, Polígonos e Poliedros *[Projeto 05]*
 
 - Função Triângulo
 - Proporcionalidade
