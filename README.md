@@ -75,3 +75,13 @@ Descrição de nosso arquivo:
 
 
 #### Após utilização e estudos dos laboratórios envie feedback em nosso grupo.
+
+Sites indicados:
+
+<a href="https://replit.com/" rel="oii">![foo](https://cdn.freebiesupply.com/logos/thumbs/2x/replit-logo.png)</a>
+
+````
+sudo
+````
+
+[<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/replit-logo.png">](https://replit.com/)
