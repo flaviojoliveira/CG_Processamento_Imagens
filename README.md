@@ -65,4 +65,13 @@ Descrição de nosso arquivo:
 *alunos inserirem os comandos aqui
 ```
 
+### Laboratório - Processamento de Imagens e Geometria - parte 2 [Projeto 05]
+
+- Função Triângulo
+- Proporcionalidade
+```
+*alunos inserirem os comandos aqui
+```
+
+
 #### Após utilização e estudos dos laboratórios envie feedback em nosso grupo.
