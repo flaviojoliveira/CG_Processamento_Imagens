@@ -78,10 +78,6 @@ Descrição de nosso arquivo:
 
 Sites indicados:
 
-<a href="https://replit.com/" rel="oii">![foo](https://cdn.freebiesupply.com/logos/thumbs/2x/replit-logo.png)</a>
-
-````
-sudo
-````
-
 [<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/replit-logo.png">](https://replit.com/)
+
+[<img height="120px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/replit-logo.png">](https://replit.com/)
