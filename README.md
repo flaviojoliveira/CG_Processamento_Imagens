@@ -8,10 +8,6 @@
 
 1. clone repositório
 
- ```
- Teste de commit
- ```
-
 
 ```
 git clone https://github.com/flaviojoliveira/CG_Processamento_Imagens
