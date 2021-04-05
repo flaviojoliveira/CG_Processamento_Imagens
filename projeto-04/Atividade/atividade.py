@@ -7,7 +7,7 @@ INPUT_DIR = "input"
 OUTPUT_DIR = "output"
 
 
-def flag_japao(height):
+def bandeira_japao(height):
     WHITE = (255, 255, 255)
     RED = (173, 35, 51)
     width = 3*height//2
@@ -23,5 +23,5 @@ def flag_japao(height):
     return image
 
 if __name__ == "__main__":
-    t = flag_japao(500)
+    t = bandeira_japao(700)
     t.show()
