@@ -19,3 +19,5 @@
         imagem vetorial é um tipo de imagem gerada a partir de descrições geométricas de formas. 
         
         imagens matriciais são formadas através de uma matriz de pixéis, cada pixel vai guardaruma cor. A combinação de todos os pixéis é que vai dar origem à imagem.
+    
+### 3. Como podemos definir e exemplificar a seguinte imagem abaixo:
