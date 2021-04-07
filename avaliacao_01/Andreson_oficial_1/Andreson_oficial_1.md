@@ -13,3 +13,7 @@
    #### c. Qual definição de computação gráfica melhor se aplica a um cientista da computação?
 
         A computação gráfica é a área da computação destinada à geração de imagens em geral
+
+### 2. Quais diferenças se aplicam ao trabalharmos com imagens vetoriais e matriciais em CGPI (Computação Gráfica e Processamento de Imagens)?
+
+        imagem vetorial é um tipo de imagem gerada a partir de descrições geométricas de formas. imagens matriciais são formadas através de uma matriz de pixéis, cada pixel vai guardaruma cor. A combinação de todos os pixéis é que vai dar origem à imagem.
