@@ -3,7 +3,7 @@ from PIL import Image
 import os
 
 # abrindo nossa imagem
-image = Image.open(r"data/input/bandeira.jpeg")
+image = Image.open(r"data/input/bandeira_br.jpg")
 
 px = image.load() 
 cordinate = x, y = 512, 375
