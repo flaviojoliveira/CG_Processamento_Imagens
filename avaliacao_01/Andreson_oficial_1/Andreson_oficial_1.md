@@ -12,3 +12,4 @@
     
    #### c. Qual definição de computação gráfica melhor se aplica a um cientista da computação?
 
+        A computação gráfica é a área da computação destinada à geração de imagens em geral
