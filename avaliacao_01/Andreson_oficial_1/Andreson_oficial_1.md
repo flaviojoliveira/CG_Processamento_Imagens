@@ -1,6 +1,6 @@
 ## Atividades
 
-###1. Sobre Computação Gráfica e Processamento de Imagens:
+### 1. Sobre Computação Gráfica e Processamento de Imagens:
 
    #### a. Descreva o perfil esperado para um profissional em computação gráfica.
 
