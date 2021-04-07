@@ -1,4 +1,4 @@
-### Atividades
+##### Atividades
 
 1. Sobre Computação Gráfica e Processamento de Imagens:
 
@@ -12,4 +12,3 @@
     
     c. Qual definição de computação gráfica melhor se aplica a um cientista da computação?
 
-        
