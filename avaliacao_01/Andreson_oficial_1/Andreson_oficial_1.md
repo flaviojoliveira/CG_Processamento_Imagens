@@ -22,4 +22,4 @@
     
 ### 3. Como podemos definir e exemplificar a seguinte imagem abaixo:
 
-    ![Q3_Fig1](./avaliacao_01/data/img1.jpg)
+    ![Q3_Fig1](../avaliacao_01/data/img1.jpg)
