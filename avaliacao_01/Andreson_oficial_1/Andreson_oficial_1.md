@@ -22,4 +22,6 @@
     
 ### 3. Como podemos definir e exemplificar a seguinte imagem abaixo:
 
-    
+         Uma cena ou objeto do mundo real é traduzido para o mundo digital por meio de um processo de captura ou de modelagem.
+         A modelagem é o processo de representar objetos do mundo real por meio de equações, pontos, retas, superfícies ou outras formas geométricas.
+         A captura é o processo de, literalmente, capturar informações do mundo real com sensores e representar a informação capturada na forma de uma imagem.
