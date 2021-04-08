@@ -64,6 +64,9 @@ Exemplo de estrutura de seu diretório:
 
    ![Q4_Fig2](/avaliacao_01/data/2img.png)
 
+    ```
+    Resposta: Vetorial
+    ```
 5. Proponha um exemplo de criação de imagem utilizando a biblioteca Pycairo.
 Em seu diretório inserir o arquivo com **APENAS** o código fonte. Nome do arquivo *q5_seuprimeironome.ipynb*
 
