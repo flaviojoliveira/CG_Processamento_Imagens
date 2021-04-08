@@ -27,23 +27,25 @@ Exemplo de estrutura de seu diretório:
 
     a. Descreva o perfil esperado para um profissional em computação gráfica.
     ```
-    Resposta: 
+    Resposta: Uma pessoa que possua criatividade, possuí e conhecer técnicas para produzir em varias ferramentas de CG, está sempre antenado para novas tecnologias e técnicas.
     ```
     
     b. Onde podemos aplicar ou encontrar aplicação de recursos da computação gráfica.
     ```
-    Resposta: 
+    Resposta: Games, animações de filmes, Programas de modelagem, interfaces, reconhecimento facial, entre varios outros
     ```
     
     c. Qual definição de computação gráfica melhor se aplica a um cientista da computação?
     ```
-    Resposta: 
+    Resposta: Manipulação de imagens através de linguagem de programação
     ```
 
 2. Quais diferenças se aplicam ao trabalharmos com imagens vetoriais e matriciais em CGPI (Computação Gráfica e Processamento de Imagens)?
 
     ```
-    Resposta: 
+    Resposta: Uma diferença é que imagens vetoriais não perdem qualidade quando mudamos elas de tamanho enquanto as imagens matriciais perdem qualidade.
+
+    Nas imagens Vetoriais as equações matemáticas descrevem as formas enquanto na matricial essa definição é feita por números binários
     ```
 
 3. Como podemos definir e exemplificar a seguinte imagem abaixo:
@@ -58,7 +60,7 @@ Exemplo de estrutura de seu diretório:
     [<img height="100px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/replit-logo.png">](https://replit.com/)
 
     ```
-    Resposta: 
+    Resposta: Modelagem para produzir uma imagem através de programas que produzem modelagens 2D/3D, ou capturando imagens reais e manipular de acordo com as necessidades.
     ```
 4. Classifique a imagem gerada por este código (Matricial ou Vetorial) e implemente com novos novos valores (linhas 3 a 12)
 
