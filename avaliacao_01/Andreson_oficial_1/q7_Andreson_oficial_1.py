@@ -1,5 +1,10 @@
-import PIL
 from PIL import Image
+import glob, os
 
-image.thumbnail((100,100))
-Print(image.thumbnail)
+size = 128, 128
+
+for infile in glob.glob("*.jpg"):
+    file, ext = os.path.splitext(infile)
+    with Image.open(infile) as im:
+        im.thumbnail(size)
+        im.save(file + ".thumbnail", "JPEG")
