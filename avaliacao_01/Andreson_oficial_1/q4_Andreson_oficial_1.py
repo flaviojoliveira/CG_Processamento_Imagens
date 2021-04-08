@@ -1,5 +1,5 @@
 #=======================================#
-#       imagem do tipo vetorial         #
+#-------imagem do tipo vetorial---------#
 #=======================================#
 import cairo
 
