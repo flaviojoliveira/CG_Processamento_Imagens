@@ -1,17 +1,17 @@
 from PIL import Image
 from colorsys import rgb_to_hsv, hsv_to_rgb
 
-im_obj=Image.open('q6.jpg')
+image = Image.open("./avaliacao_01/Andreson_oficial_1/q6.jpg")
 
-print ("width = "+str(im_obj.width))
-print ("height = "+str(im_obj.height))
+print ("width = "+str(image.width))
+print ("height = "+str(image.height))
 
-shimg=im_obj.copy()
+shimg=image.copy()
 pix=shimg.load()
 
 for shift in range(1,6):
-    for i in range(im_obj.width):
-        for j in range(im_obj.height):
+    for i in range(image.width):
+        for j in range(image.height):
             rgb=pix[i,j]
             hsv=rgb_to_hsv(*rgb)
             hsv=((hsv[0]+1.0/6)%1.0,hsv[1],hsv[2])
@@ -21,4 +21,4 @@ for shift in range(1,6):
     shimg.save("q6%02d.jpg"%shift)
 
 shimg.close()
-im_obj.close()
+image.close()
