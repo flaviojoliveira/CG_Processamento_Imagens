@@ -23,4 +23,4 @@ c.set_source_rgb(0, 0, 1)
 c.set_line_width(0.05)
 c.stroke()
 
-surface.write_to_png('exemple.png')
+surface.write_to_png('/avaliacao_01/Andreson_oficial_1/data_Andreson_oficial_1/exemple.png')
