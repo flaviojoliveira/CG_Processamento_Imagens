@@ -1,7 +1,7 @@
 from PIL import Image
 from colorsys import rgb_to_hsv, hsv_to_rgb
 
-im_obj=Image.open('q6.jpg')
+im_obj=Image.open('qe6.jpg')
 
 print ("width = "+str(im_obj.width))
 print ("height = "+str(im_obj.height))
