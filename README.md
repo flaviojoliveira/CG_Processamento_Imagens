@@ -8,6 +8,7 @@
 
 1. clone repositório
 
+
 ```
 git clone https://github.com/flaviojoliveira/CG_Processamento_Imagens
 cd projeto2

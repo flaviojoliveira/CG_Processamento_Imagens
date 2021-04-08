@@ -1,15 +1,16 @@
 from PIL import Image
 
-# from utils import in_file
 import os
 
+#Pastas de I/O
 INPUT_DIR = "input"
 OUTPUT_DIR = "output"
 
-
-def bandeira_japao(height):
+def japan_flag(height):
+    #Cores
     WHITE = (255, 255, 255)
     RED = (173, 35, 51)
+    #Largura
     width = 3*height//2
     r = 3*height//10
     c = (width//2, height//2)
@@ -23,5 +24,5 @@ def bandeira_japao(height):
     return image
 
 if __name__ == "__main__":
-    t = bandeira_japao(700)
+    t = japan_flag(700)
     t.show()

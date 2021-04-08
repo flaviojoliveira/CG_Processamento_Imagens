@@ -1,6 +1,6 @@
 from PIL import Image
 
-image = Image.open("figura1.jpeg")
+image = Image.open("./projeto-01/data/fig1.jpg")
 
 image.show()
 
