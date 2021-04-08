@@ -22,15 +22,11 @@ def tela():
                 sair = False
         backG.fill(WHITE)
         pygame.draw.rect(backG, RED, (300, 300, 300, 400))
+        pygame.draw.polygon(backG, BLACK, [[100, 100], [450, 0], [600, 200]], 2)
         pygame.draw.circle(backG, BLUE, [600,250], 40)
         pygame.draw.line(backG, GREEN,  [320, 240], [290, 240], 5) 
-        pygame.draw.ellipse(backG, PURPLE, [300, 10, 50, 20])
-        pygame.draw.polygon(backG, BLACK, [[100, 100], [450, 0], [600, 200]], 2)
+        pygame.draw.ellipse(backG, PURPLE, [300, 10, 50, 20]) 
       
-      
-
-
-
         pygame.display.update()
 
     pygame.quit()
