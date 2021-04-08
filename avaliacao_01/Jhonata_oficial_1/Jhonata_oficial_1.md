@@ -131,20 +131,20 @@ Em seu diretório inserir o arquivo com **APENAS** o código fonte. Nome do arqu
 
 9. A partir da imagem **q9_fig.jpg** disponível em *CG_Processamento_Imagens\data\input* elabore um código fonte que realize os seguintes procedimentos:
 
- - Exibir o formato do arquivo;
- - Exibir o modo do canal formato de pixel 
- - Dimensão da imagem em pixel
- - Exibir as propriedades da imagem em um array de pixel
- - Exibir o array de pixel como imagem
- - converter o array de pixel em objeto Image Pillow
- - verificar o tipo do objeto
- - converter um objeto do tipo imagem para um array numpy
- - Imprimir em tela os atributos do array
- - imprimir (salvar) a imagem no formato PNG
- - imprimir (salvar) a imagem no formato GIF
- - Exibir a imagem e verificar o formato:
- - Converter a imagem em escala de cinza
- - Exibir tamanho
- - Gerar thumbnail ignorando aspecto ratio
- - Flip da imagem (inverter)
- - Exibir coordenadas específicas
+ - [x] Exibir o formato do arquivo;
+ - [x] Exibir o modo do canal formato de pixel 
+ - [x] Dimensão da imagem em pixel
+ - [x] Exibir as propriedades da imagem em um array de pixel
+ - [x] Exibir o array de pixel como imagem
+ - [x] converter o array de pixel em objeto Image Pillow
+ - [x] verificar o tipo do objeto
+ - [x] converter um objeto do tipo imagem para um array numpy
+ - [x] Imprimir em tela os atributos do array
+ - [x] imprimir (salvar) a imagem no formato PNG
+ - [x] imprimir (salvar) a imagem no formato GIF
+ - [x] Exibir a imagem e verificar o formato:
+ - [x] Converter a imagem em escala de cinza
+ - [x] Exibir tamanho
+ - [x] Gerar thumbnail ignorando aspecto ratio
+ - [x] Flip da imagem (inverter)
+ - [x] Exibir coordenadas específicas
