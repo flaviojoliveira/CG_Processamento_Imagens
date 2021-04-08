@@ -27,15 +27,27 @@ Exemplo de estrutura de seu diretório:
 
     a. Descreva o perfil esperado para um profissional em computação gráfica.
     
+    O profissional de computação gráfica deve ter um perfil criativo e tem habilidades em design, edição efeitos sonoros, visuais, criação e animação de objetos 2D e 3D, entre outras habilidades pertinentes.
+
     b. Onde podemos aplicar ou encontrar aplicação de recursos da computação gráfica.
+
+    Entre as áreas de aplicação da Computação Gráfica podem se apresentar: O CAD/CAm e CAE, que sao sistemas gráficos interativos utilizados para projetar componentes e peças de sistemas mecânicos, elétricos, eletromecânicos e eletrônicos. Em Controle de processos pode ser feito sistemas de controle de tráfego aéreo além de controle de usinas nucleares ou sistemas de produção diversos. Na Cartografia, a computação gráfica é utilizada para produtiz representações precisas e esquemáticas de fenômenos naturais e geográficos obtidos a partir da coleta de dados. E no Entretenimento o desenvolvimento de jogos, que é um dos mercados de maior crescimento e com maior expectativa para os próximos anos.
     
     c. Qual definição de computação gráfica melhor se aplica a um cientista da computação?
 
+    Segundo a ISO ("International Standards Organization") a Computação Gráfica pode ser definida como o conjunto de métodos e técnicas utilizados para converter dados para um dispositivo gráfico, via computador. ela também pode ser entendida como o conjunto de algoritmos, técnicas e metodologias para o tratamento e a representação gráfica de informações através da criação, armazenamento e manipulação de desenhos em formato digital, utilizando-se computadores e periféricos gráficos.
+
 2. Quais diferenças se aplicam ao trabalharmos com imagens vetoriais e matriciais em CGPI (Computação Gráfica e Processamento de Imagens)?
+
+    Uma diferença é que imagens vetoriais não perdem qualidade quando mudamos elas de tamanho enquanto as imagens matriciais perdem qualidade.
+    Nas imagens Vetoriais as equações matemáticas descrevem as formas enquanto na matricial essa definição é feita por números binários.
+
 
 3. Como podemos definir e exemplificar a seguinte imagem abaixo:
 
    ![Q3_Fig1](/avaliacao_01/data/img1.jpg)
+
+   Na figura Modelagem e Captura de Imagem são formas de salvar uma cena ou imagem do mundo real ou não atravez de cameras, modelagem 3D, desenhos e aplicaticos entre outras formas, trazendo assim formas para o mundo digital.
 
 
     ### Sites indicados:
