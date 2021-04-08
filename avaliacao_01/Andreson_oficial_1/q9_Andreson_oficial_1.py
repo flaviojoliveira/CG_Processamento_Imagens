@@ -1,6 +1,6 @@
 from PIL import Image
 
-image = Image.open("q9_fig.jpg")
+image = Image.open("./avaliacao_01/Andreson_oficial_1/q6.jpg")
 
 #  # Exibir o formato do arquivo;
 # print(image.format)
@@ -22,9 +22,9 @@ image = Image.open("q9_fig.jpg")
 # print(data.dtype)
 # print(data.shape)
 #   # imprimir (salvar) a imagem no formato PNG
-# image.save("CG_Processamento_Imagens\data\input\q9_fig.jpg",format="PNG")
+# image.save("CG_Processamento_Imagens\data\input\q6.jpg",format="PNG")
 #   # imprimir (salvar) a imagem no formato GIF
-# image.save("CG_Processamento_Imagens\data\input\q9_fig.gif",format="GIF")
+# image.save("CG_Processamento_Imagens\data\input\q6.gif",format="GIF")
 #   # Exibir a imagem e verificar o formato:
 # print(image3.format)
 #   # Converter a imagem em escala de cinza
