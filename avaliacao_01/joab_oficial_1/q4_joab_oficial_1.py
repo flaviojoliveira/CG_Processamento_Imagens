@@ -1,8 +1,8 @@
 import cairo
 
-with cairo.SVGSurface("exemplo.svg", 300, 300) as surface:
+with cairo.SVGSurface("exemplo.svg", 400, 400) as surface:
     c = cairo.Context(surface)
-    c.scale(300,300)
+    c.scale(400,400)
     c.set_line_width(1)
     c.move_to(1, 1)
     c.line_to(0.5, 0.5)
