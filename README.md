@@ -11,18 +11,25 @@
 
 ```
 git clone https://github.com/flaviojoliveira/CG_Processamento_Imagens
-cd projeto2
+cd projeto1
 ```
 
 2. Após crie seu ambiente virtual (utilize a versão mais recente)
 ```
-python3 -m venv projeto2
+python3 -m venv projetos
 ```
 3. Ativar Ambiente virtual
 
+Windows
 ```
-source /lab02/bin/activate
+source /path/to/projetos/Scripts/activate
 ```
+
+Linux / Mac
+```
+source /path/to/projetos/bin/activate
+```
+
 4. Instalar a biblioteca Pillow
 ```
 pip install pillow
@@ -30,7 +37,7 @@ pip install pillow
 5. Consulte a library Pillow módulo image e verifique as opções em:
 
 - get.pixel "Image.getpixel(x,y)"
-Lembram da matriz que falamos...cliquem em "coordenate system" e verifique onde temos os (0,0) de nossos pixels.
+Lembram da matriz que falamos... cliquem em "coordenate system" e verifique onde temos os (0,0) de nossos pixels.
 - put.pixel "Image.putpixel(x,y,value)"
 
 https://pillow.readthedocs.io/en/stable/reference/Image.html
