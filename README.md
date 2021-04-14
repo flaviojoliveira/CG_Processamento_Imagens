@@ -20,9 +20,9 @@ python3 -m venv projetos
 ```
 3. Ativar Ambiente virtual
 
-Windows
+Windows (powershell no VScode)
 ```
-source /path/to/projetos/Scripts/activate
+.\projetos\Scripts\Activate.ps1
 ```
 
 Linux / Mac
