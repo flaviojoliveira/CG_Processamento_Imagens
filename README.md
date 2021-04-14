@@ -85,6 +85,33 @@ Descrição de nosso arquivo:
 *alunos inserirem os comandos aqui
 ```
 
+#### Laboratório keyboard *[Projeto 06]*
+
+1. clone repositório
+
+
+```
+git clone https://github.com/flaviojoliveira/CG_Processamento_Imagens
+cd projeto-06
+```
+
+2. Após crie seu ambiente virtual (utilize a versão mais recente)
+```
+python3 -m venv top
+```
+3. Ativar Ambiente virtual
+
+Windows
+```
+source /path/to/top/Scripts/activate
+```
+
+Linux / Mac
+```
+source /path/to/top/bin/activate
+```
+
+4. Instalar as bibliotecas indicadas em nosso grupo.
 
 #### Após utilização e estudos dos laboratórios envie feedback em nosso grupo.
 
