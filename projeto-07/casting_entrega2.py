@@ -2,14 +2,14 @@ import numpy as np
 from matplotlib import pyplot as plt
 import keyboard
 
-#CGPI - primeiro mapa
+#CGPI - primeiro mapa - Entrega 01
 mapa = [[1,1,1,1,1],
         [1,0,0,0,1],
         [1,0,1,0,1],
         [1,0,0,0,1],
         [1,1,1,1,1]]
 
-#posição inicial
+#posição inicial do personagem
 posx, posy = (1,1)
 
 #posição final
@@ -27,9 +27,12 @@ while True:
         while True:
             x, y = (x + cos, y + sin)
             n = n+1
-            if mapa[int(x)][int(y)] !=0:
+            if mapa[int(x)] [int(y)] !=0:
                 h = 1/(0.02 * n)
                 break
         plt.vlines(i, -h, h, lw = 8)
+
     plt.axis('off'); plt.tight_layout(); plt.axis([0, 60, -1, 1])
     plt.draw(); plt.pause(0.0001); plt.clf()
+
+plt.close()

@@ -49,16 +49,13 @@ while True:
         rot = rot - np.pi/8
     elif key == 'right':
         rot = rot + np.pi/8
-    #elif key == '8':
-    #    rot_v = rot_v + 10
-    #elif key == '2':
-    #    rot_v = rot_v - 10
     elif key == 'esc':
         break
+# posição atual do jogador
+    
     if mapa[int(x)][int(y)] ==0:
         if int(posx) == exitx and int(posy) == exity:
             break
         posx, posy = (x, y)
 
-    plt.close()
-#plt.show()
+plt.close()
