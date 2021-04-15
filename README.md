@@ -89,30 +89,55 @@ Descrição de nosso arquivo:
 
 1. clone repositório
 
-
 ```
 git clone https://github.com/flaviojoliveira/CG_Processamento_Imagens
 cd projeto-06
 ```
+ou 
+# Execute os passos abaixo para peparação do ambiente de nosso laboratório
 
-2. Após crie seu ambiente virtual (utilize a versão mais recente)
+1. Crie um novo diretório denominado projeto-06
+
+2. Abra este diretório em seu editor de código (VSCode)
+
+3. Abrir o item de menu Terminal no VSCode
+
+4. Com o terminal do VScode aberto inserir o seguinte comando:
+
+*este comando cria um ambiente virtual python denominado "top"*
 ```
 python3 -m venv top
 ```
-3. Ativar Ambiente virtual
+5. Ativar o ambiente virtual criado
 
-Windows
 ```
-source /path/to/top/Scripts/activate
+.\top\Scripts\Activate.ps1
+```
+*powershell no vscode*
+
+ou
+```
+.\top\Scripts\Activate.bat
+```
+*CMD no vscode*
+
+##### Caso ocorra erro no criação de seu ambiente virtual W10
+
+*ver dicas no grupo.*
+Abrir powershell como administrador e executar o comando abaixo e em seguida responder **S** para sim.
+
+```
+ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 ```
 
-Linux / Mac
-```
-source /path/to/top/bin/activate
-```
+6. Instalar as seguintes bibliotecas
 
-4. Instalar as bibliotecas indicadas em nosso grupo.
-
+Numpy, Matplotlib e Keyboard
+```
+pip install numpy
+pip install matplotlib
+pip install keyboard
+```
 #### Após utilização e estudos dos laboratórios envie feedback em nosso grupo.
 
 ### Sites indicados:
