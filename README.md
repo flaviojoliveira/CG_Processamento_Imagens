@@ -141,23 +141,18 @@ pip install keyboard
 
 #### Laboratório keyboard *[Projeto 08]*
 
-##### Caso ocorra erro no criação de seu ambiente virtual W10
+##### Raycasting e ray tracing - python
 
-*ver dicas no grupo.*
-Abrir powershell como administrador e executar o comando abaixo e em seguida responder **S** para sim.
+Entregas para este encontro:
 
+1. Estrutura de exemplo para o raycasting e ray tracing (disponível em nosso livro de estudos) 
 ```
- Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+*Realizar pull request em nosso github projeto-08*
 ```
+3. *ver dica de vídeo em nosso grupo*, postar um comentário sobre o conteúdo tratado neste vídeo.
 
-6. Instalar as seguintes bibliotecas
 
-Numpy, Matplotlib e Keyboard
-```
-pip install numpy
-pip install matplotlib
-pip install keyboard
-```
+
 #### Após utilização e estudos dos laboratórios envie feedback em nosso grupo.
 
 ### Sites indicados:
