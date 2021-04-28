@@ -138,6 +138,26 @@ pip install numpy
 pip install matplotlib
 pip install keyboard
 ```
+
+#### Laboratório keyboard *[Projeto 08]*
+
+##### Caso ocorra erro no criação de seu ambiente virtual W10
+
+*ver dicas no grupo.*
+Abrir powershell como administrador e executar o comando abaixo e em seguida responder **S** para sim.
+
+```
+ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+```
+
+6. Instalar as seguintes bibliotecas
+
+Numpy, Matplotlib e Keyboard
+```
+pip install numpy
+pip install matplotlib
+pip install keyboard
+```
 #### Após utilização e estudos dos laboratórios envie feedback em nosso grupo.
 
 ### Sites indicados:
