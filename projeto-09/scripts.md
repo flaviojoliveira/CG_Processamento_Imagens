@@ -30,11 +30,12 @@ a. Conforme disponível na documentação oficial do bpy comente sobre as estrut
 
 ### Atividade 3 - Limpar objetos na tela (scripting python)
 
-import bpy
+ ```
+ import bpy
 
 bpy.ops.object.select_by_type(type='MESH')
 bpy.ops.object.delete()
-
+```
 a. Conforme disponível na documentação oficial do bpy comente sobre as estruturas utilizadas neste script.
 
 ### Atividade 4 - Criar materiais e apectos utilizando scripting python
