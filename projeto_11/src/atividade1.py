@@ -4,7 +4,7 @@ from math import sqrt
 import os
 from utils import show_vertical, show_horizontal, in_file, out_file
 
-# IMPC06 | "Borrando uma Imagem em Python": https://youtu.be/IgQfpMPblR0
+# item1 | "Borrando uma Imagem em Python": https://youtu.be/IgQfpMPblR0
 def show_box_blur(filename, r=1):
     '''Aplica um filtro BoxBlur à imagem, exibe e salva o resultado'''
 
@@ -19,7 +19,7 @@ def show_box_blur(filename, r=1):
         )
     )
 
-# IMPC07 | "DETECTANDO ARESTAS na Imagem com Filtro Sobel": https://youtu.be/uHT4qDzq1bY
+# item2 | "DETECTANDO ARESTAS na Imagem com Filtro Sobel": https://youtu.be/uHT4qDzq1bY
 def show_edges(filename, direction='x',offset=0):
     '''Aplica um filtro Sobel à imagem, exibe e salva o resultado'''
 
