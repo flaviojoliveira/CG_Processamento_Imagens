@@ -1,0 +1,29 @@
+#6. Implemente o código abaixo:
+
+    # Exemplo para uso do Pillow
+    # Converte as cores de uma imagem, rotacionando o matiz
+
+    from PIL import Image
+    from colorsys import rgb_to_hsv, hsv_to_rgb
+    im_obj=Image.open('q6.jpg')
+    print ("width = "+str(im_obj.width))
+    print ("height = "+str(im_obj.height))
+    shimg=im_obj.copy()
+    pix=shimg.load()
+    for shift in range(1,6):
+        for i in range(im_obj.width):
+            for j in range(im_obj.height):
+                rgb=pix[i,j]
+                hsv=rgb_to_hsv(*rgb)
+                hsv=((hsv[0]+1.0/6)%1.0,hsv[1],hsv[2])
+                r,g,b=hsv_to_rgb(*hsv)
+                rgb=(int(r),int(g),int(b))
+                pix[i,j]=rgb
+        shimg.save("q6%02d.jpg"%shift)
+    shimg.close()
+    im_obj.close()
+
+
+    #E comente o resultado obtido relacionando-o com a utilização da biblioteca Pillow.
+
+    #Resposta Q6: Geram novas cores para as imagens utilizando manipulação com conversão de HSV para novos valores e retornando para RGB.
