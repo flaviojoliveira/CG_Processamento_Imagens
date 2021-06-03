@@ -1,0 +1,22 @@
+{
+  "RenderWindow":{
+    "ImageWidth": 600,
+    "ImageHeight": 600
+  },
+  "RenderThread":{
+    "BucketSize":50,
+    "BucketOrderOptions":["Scanline","Random","Spiral","Bottom"],
+    "BucketOrder":2
+  },
+  "RenderProcess": {
+    "KernelOptions":["DirectLighting","PathTracing"],
+    "Kernel":0,
+    "DOF":1,
+    "AAsamples": 9,
+    "IndirectSamples":1,
+    "IndirectDepth":1,
+    "Bias":0.0001,
+    "ReflectionMaxDepth":4,
+    "RefractionMaxDepth":5
+  }
+}
