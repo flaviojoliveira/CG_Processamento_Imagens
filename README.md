@@ -161,4 +161,4 @@ Entregas para este encontro:
 [<img height="100px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/replit-logo.png">](https://replit.com/)
 [<img height="80px" src="https://jupyter.org/assets/main-logo.svg">](https://https://jupyter.org/)
 
-**Alunos precisam inserir informações neste arquivo**
+**Vamos inserir novas informações neste repositório**
